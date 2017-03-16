@@ -1,63 +1,17 @@
 {"words": [{
-   "display_as": "埼玉りそな銀行",
-   "sounds_like": ["サイリソ"],
-   "count": 1,
-   "source": ["user"],
-   "word": "さいりそ"
-　},
-{
-   "display_as": "マイゲート",
-   "sounds_like": ["マイゲート"],
-   "count": 1,
-   "source": ["user"],
-   "word": "まいげーと"
-　},
-{
-   "display_as": "ワンタイムパスワード",
-   "sounds_like": ["ワンタイムパスワード"],
-   "count": 1,
-   "source": ["user"],
-   "word": "わんたいむぱすわーど"
-　},
-{
-   "display_as": "乱数表",
-   "sounds_like": ["ランスウヒョウ"],
-   "count": 1,
-   "source": ["user"],
-   "word": "らんすうひょう" 
-　},
-{
-   "display_as": "メニュー",
-   "sounds_like": ["メニュー"],
-   "count": 1,
-   "source": ["user"],
-   "word": "めにゅー" 
-　},
-{
-   "display_as": "各種変更手続き",
-   "sounds_like": ["カクシュヘンコウテツヅキ"],
-   "count": 1,
-   "source": ["user"],
-   "word": "各種変更手続き" 
-　},
-{
-   "display_as": "ソフトウェアトークン",
-   "sounds_like": ["ソフトウェアトークン"],
-   "count": 1,
-   "source": ["user"],
-   "word": "ソフトウエアトークン" 
-　},
-{  
-   "display_as": "利用申込み",
-   "sounds_like": ["リヨウモウシコミ"],
-   "count": 1,
-   "source": ["user"],
-   "word": "利用申し込み"
-　},
-{  
-   "display_as": "ＶＩＰアクセストークン",
-   "sounds_like": ["ブイアイピーアクセストークン"],
-   "count": 1,
-   "source": ["user"],
-   "word": "月額接続"
-}]}
+   "word": "埼玉りそな銀行",
+   "sounds_like": ["サイリソ"]},
+  {"word": "マイゲート"},
+  {"word": "ワンタイムパスワード"},
+  {"word": "乱数表",
+   "sounds_like": ["ランスウヒョウ"]},
+  {"word": "メニュー"},
+  {"word": "各種変更手続き"},
+  {"word": "ソフトウェアトークン"},
+  {"word": "利用申込み",
+   "sounds_like": ["リヨウモウシコミ"]},
+  {"word": "ＶＩＰアクセストークン",
+   "sounds_like": ["ブイアイピーアクセストークン"]},
+  {"word": "ＶＩＰアクセス",
+   "sounds_like": ["ブイアイピーアクセス"]}
+]}
