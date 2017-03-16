@@ -19,7 +19,6 @@
    "source": ["user"],
    "word": "わんたいむぱすわーど"
 　},
-
 {
    "display_as": "乱数表",
    "sounds_like": ["ランスウヒョウ"],
@@ -39,7 +38,7 @@
    "sounds_like": ["カクシュヘンコウテツヅキ"],
    "count": 1,
    "source": ["user"],
-   "word": "さいりそ" 
+   "word": "各種変更手続き" 
 　},
 {
    "display_as": "ソフトウェアトークン",
@@ -61,5 +60,4 @@
    "count": 1,
    "source": ["user"],
    "word": "月額接続"
- }
-]}
+}]}
