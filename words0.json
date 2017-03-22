@@ -2,31 +2,42 @@
   {"word": "さいたまりそなぎんこう",
    "sounds_like": ["サイリソ"],
    "display_as": "埼玉りそな銀行"},
+
   {"word": "まいげーと",
    "display_as": "マイゲート"},
+
   {"word": "わんたいむぱすわーど",
    "display_as": "ワンタイムパスワード"},
+
   {"word": "らんすうひょう",
    "sounds_like": ["ランスウヒョウ"],
    "display_as": "乱数表"},
+
   {"word": "かくしゅへんこうてつづき",
 　 "display_as": "各種変更手続き"},
+
   {"word": "そふとうぇあとーくん",
    "display_as": "ソフトウェアトークン"},
+
   {"word": "りようもうしこみ",
    "sounds_like": ["リヨウモウシコミ"],
    "display_as": "利用申込み"},
+
   {"word": "ぶいあいぴーあくせすとーくん",
    "sounds_like": ["ブイアイピーアクセストークン"],
    "display_as": "ＶＩＰアクセストークン"},
+
   {"word": "めにゅー",
    "display_as": "メニュー"},
+
   {"word": "せんじつに",
    "sounds_like": ["センジツニ"],
    "display_as": "先日に"},
+
   {"word": "ふりこみ",
    "sounds_like": ["フリコミ"],
    "display_as": "振込"},
+
   {"word": "もうしこみ",
    "sounds_like": ["モウシコミ"],
    "display_as": "申込"}
