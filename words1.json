@@ -1,59 +1,32 @@
-[
-   {
+[{
       "display_as": "生成器",
       "sounds_like": ["セイセイキ"],
-      "count": 1,
-      "source": ["user"],
       "word": "せいせいき"
    },
    {
       "display_as": "トークン",
       "sounds_like": ["トークン"],
-      "count": 1,
-      "source": ["user"],
       "word": "とーくん"
    },
    {
       "display_as": "ＶＩＰアクセス",
       "sounds_like": ["ブイアイピーアクセス"],
-      "count": 1,
-      "source": ["user"],
       "word": "ぶいあいぴーあくせす"
    },
    {
       "display_as": "マイゲート",
       "sounds_like": ["マイゲート"],
-      "count": 1,
-      "source": ["user"],
       "word": "まいげーと"
    },
    {
       "display_as": "文言",
       "sounds_like": ["モンゴン"],
-      "count": 1,
-      "source": ["user"],
       "word": "もんごん"
-   },
-   {
-      "display_as": "乱数表",
-      "sounds_like": ["ランスウヒョウ"],
-      "count": 1,
-      "source": ["user"],
-      "word": "らんすうひょう"
    },
    {
       "display_as": "ログインＩＤ",
       "sounds_like": ["ログインアイディ"],
-      "count": 1,
-      "source": ["user"],
       "word": "ろぐいんあいでぃ"
-   },
-   {
-      "display_as": "ワンタイムパスワード",
-      "sounds_like": ["ワンタイムパスワード"],
-      "count": 1,
-      "source": ["user"],
-      "word": "わんたいむぱすわーど"
-   }
+  }
 ]
 
