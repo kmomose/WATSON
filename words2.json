@@ -1,20 +1,3 @@
 [
-	{"display_as": "注意事項",
-      "sounds_like": ["チュウイジコウ"],
-      "word": "ちゅういじこう"},
-	{"display_as": "りそな銀行"},
-	{"display_as": "名義人"},
-	{"display_as": "登録"},
-	{"display_as": "順番に"},
-	{"display_as": "六桁"},
-	{"display_as": "十一桁"},
-	{"display_as": "そこに"},
-	{"display_as": "かしこまりました"},
-	{"display_as": "パスワードの初期化"},
-	{"display_as": "パスワード"},
-	{"display_as": "開始登録"},
-	{"display_as": "各種"},
-	{"display_as": "開始"},
-	{"display_as": "入力"},
 	{"display_as": "順番"}
 ]
