@@ -15,6 +15,7 @@ websocket version of STT. This demo shows the time,confidence and transcript of 
 
 Create/Add/Delete/List Corpus and Words for custom STT. 
 
+Note:
 *1. How to install freeboard:
 After provisioning NodeRed, 1) Download package.json on your laptop. 2) Add "node-red-contrib-freeboard": "0.*" in that package.json. 3) "cd" to the same directory of that file. 4) Issue "cf push applname".   (for more detail,  https://console.ng.bluemix.net/docs/starters/Node-RED/nodered.html#nodered)
  
