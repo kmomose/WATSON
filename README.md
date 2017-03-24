@@ -1,15 +1,15 @@
 # watson
 This project demonstrate Watson Speack to Text (STT) API on NodeRed.
-To make a demo environment, Just copy one of the *.json file that fit for your pourpose and import it to your NodeRed Flow.
+To make a demo environment, chose and copy one of the *.json file which fits to your pourpose and import it to your NodeRed Flow Diagram.
 
 ・　NodeRed-STT.json
 
-HTTP API version of STT. This demo read your recording file and create transcript for all data at once.  The result shows on Freeboard Dashbord.  "freeboard" is pre-request to execute this Demo (*Note1).
+HTTP API version of STT. This demo read your recording file and create transcript for all data at once.  The result feeds to Freeboard Dashbord.  "freeboard" is pre-request to execute this Demo (*Note1).
   (https://www.npmjs.com/package/node-red-contrib-freeboard) 
   
 ・　NodeRed-websocket.json (recomended for demo)
 
-websocket version of STT. This demo shows the time,confidence and transcript of your vice recording files in real-time fashion. 
+websocket version of STT. This demo shows the time and confidence as well as transcript of your recording file in real-time fashion. 
 
 ・　NodeRed-corpus.json
 
