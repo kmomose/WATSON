@@ -12,9 +12,6 @@
   {"word": "らんすうひょう",
    "sounds_like": ["ランスウヒョウ"],
    "display_as": "乱数表"},
-  {"word": "かくしゅへんこうてつづき",
-   "sounds_like": ["カクシュヘンコウテツヅキ"],
-   "display_as": "各種変更手続き"},
   {"word": "はーどうぇあ",
    "sounds_like": ["ハードウェア"],
    "display_as": "ハードウェア"},
@@ -38,9 +35,6 @@
     {"display_as": "ＶＩＰアクセス",
     "sounds_like": ["ブイアイピーアクセス","ビップアクセス"],
     "word": "ぶいあいぴーあくせす"},   
-   {"display_as": "マイゲート",
-    "sounds_like": ["マイゲート"],
-    "word": "まいげーと"},
    {"display_as": "文言",
     "sounds_like": ["モンゴン"],
     "word": "もんごん"},
@@ -78,12 +72,6 @@
      "word": "ぱすわーど"},
     {"display_as": "開始登録",
      "word": "かいしとうろく"},
-    {"display_as": "各種",
-     "word": "かくしゅ"},
-    {"display_as": "開始",
-     "word": "かいし"},
     {"display_as": "入力",
-     "word": "にゅうりょく"},
-    {"display_as": "順番",
-     "word": "じゅんばん"}
+     "word": "にゅうりょく"}
 ]
