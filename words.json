@@ -66,12 +66,16 @@
     "word": "けた"},
    {"display_as": "かしこまりました",
     "word": "かしこまりました"},
+  {"display_as": "いかがでしょうか",
+    "word": "いかがでしょうか"},
    {"display_as": "パスワードの初期化",
     "word": "ぱすわーどのしょきか"},
     {"display_as": "パスワード",
      "word": "ぱすわーど"},
     {"display_as": "開始登録",
      "word": "かいしとうろく"},
+    {"display_as": "検索",
+     "word": "けんさく"},
     {"display_as": "入力",
      "word": "にゅうりょく"}
 ]
